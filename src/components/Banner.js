@@ -8,7 +8,7 @@ const Section = styled.section`
   border-top: 2px solid ${(props) => props.theme.text};
   border-top: 2px solid ${(props) => props.theme.text};
 
-  background-color: ${(props) => `rgba(${props.theme.textRgba},0.9)`};
+  background-color: ${(props) => `rgba(${props.theme.altGreenRgba},0.9)`};
 
   display: flex;
   justify-content: center;
