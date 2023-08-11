@@ -1,8 +1,8 @@
 import React from "react";
 import styled, { keyframes } from "styled-components";
-import Player2 from "../../assets/Team/player-2.png";
-import Player3 from "../../assets/Team/player-3.png";
-import Player4 from "../../assets/Team/player-4.png";
+import Player2 from "../../assets/Anime-Cards/player-2.png";
+import Player3 from "../../assets/Anime-Cards/player-3.png";
+import Player4 from "../../assets/Anime-Cards/player-4.png";
 
 const Section = styled.section`
   min-height: 100vh;

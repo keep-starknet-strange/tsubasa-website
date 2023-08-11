@@ -34,6 +34,7 @@ const Container = styled.div`
 
     & > *:last-child {
       width: 80%;
+      justify-content: flex-start;
     }
   }
   @media (max-width: 40em) {
